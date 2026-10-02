@@ -35,7 +35,7 @@ This program simulates basic banking operations using object-oriented programmin
 ## Project Structure
 
 - `BankAccount.java` - Defines account data and banking operations
-- `BankAcountDemo.java` - Demonstrates the banking operations
+- `BankAccountDemo.java` - Demonstrates the banking operations
 - `Financial.java` - Provides a static method for calculating percentages
 
 ## Example Operations
